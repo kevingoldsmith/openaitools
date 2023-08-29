@@ -161,3 +161,5 @@ cython_debug/
 
 openaiconfig.ini
 content/
+output/
+.DS_Store
